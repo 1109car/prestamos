@@ -1,0 +1,158 @@
+*{
+    overflow: hidden;
+}
+.contenedor{
+    background-color: #0d5aea!important;
+    height: 70vh;
+    
+}
+.imagenes{
+position: absolute;
+width: 40%;
+height: 50vh;
+top: 30%;
+left: 55%;
+
+}
+.numer{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+.gridd{
+    position: absolute;
+    top: 14%;
+    left: 5%;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    width: 50%;
+    height: 30vh;
+}
+.colum{
+    display: grid;
+
+}
+.aaaa{
+    grid-template-rows: 25% 25% 25% 25%;
+}
+.bbbb{
+    margin-top: 14.5%;
+}
+.filas{
+    display: grid;
+}
+
+.g{
+    justify-content: center;
+    align-items: center;
+  
+}
+.h{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+.cliente{
+    color: #fff;
+    border-bottom: solid #fff 1px;
+}
+.qq{
+    top: 27.5%;
+    left: 50%;
+}
+.qq[type="text"]{
+    font-size: 20px;
+    
+}
+.qq::placeholder{
+    font-size: 20px;
+}
+h3{
+    color: #fff;
+}
+input{
+    position: absolute;
+    width: 100%;
+    height: 23.5%;
+    width: 100%;
+    left: 50%;
+    
+    background-color: transparent;
+    border-bottom: solid #fff 2px !important;
+    border: 0;
+}
+.inputtt{
+    position: absolute;    
+    left: 50%;
+     top: 30.3%;
+     width: 50%;
+     height: 20%;
+     background-color: transparent;
+    border-bottom: solid  2px !important;
+    outline: none; 
+    border: 0;  
+}
+
+input[type="text"]{
+    color: #fff;
+    font-size: 20px;
+    font-weight: 600;
+    text-indent: 0% ;
+    width: 50%;
+}
+.qq[type="text"]{
+    font-weight: 600;
+    border: 0;
+}
+
+input::placeholder{
+    position: absolute;
+    color: #fff;
+    left: 0%;
+    width: 48%;
+    font-size: 20px; 
+}
+.w::placeholder{
+    width: 95.5%;
+}
+#input{
+    border: 0;
+    outline: none;
+}
+.griddd{
+    position: absolute;
+    display: grid;
+    width: 50%;
+    left: 5%;
+    height: 30vh;
+    bottom: 23%;
+    grid-template-columns: 50% 50%;
+}
+.carlos{
+    position: absolute;
+    width: 40%;
+    height: 40vh;
+}
+#cajas{
+    position: absolute !important;
+    left: 70%;
+}
+.w{
+    top: 55.5%;
+}
+.vv{
+    bottom: 90%;
+    width: 100%;
+    
+}
+.mm{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+.pp{
+
+    bottom: 0.5%;
+}
+
+
